@@ -5,12 +5,6 @@
 
 ![GifProgrammazione](/assets/images/programming.gif)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/incrediblelego/count.svg" />
-</p>
-
-
 <h3 align="center">Contact me:</h3>
 
 <h2 align="center">ec.francesco@gmail.com</h2>
@@ -47,5 +41,10 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=incrediblelego&&theme=gruvbox&border_radius=15" alt="incrediblelego" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/incrediblelego/count.svg" />
+</p>
 
 <p align="center" style="font-family: sans-serif;"> Francesco Corrado 2024 </p>
