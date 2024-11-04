@@ -1,5 +1,5 @@
 <h1 align="center">IncredibleLego</h1>
-<h3 align="center">Student Deleloper studying at Unimi</h3>
+<h3 align="center">Student Developer studying at Unimi</h3>
 
 <p align="center">I'm a student currently working in Java and Golang for my study course
 
