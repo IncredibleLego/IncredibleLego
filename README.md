@@ -106,5 +106,5 @@
 
 <!--Congratulations for finding this easter egg, hope you have a great day-->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">👀</a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="cursor: default; text-decoration: none;">👀</a>
 </p>
