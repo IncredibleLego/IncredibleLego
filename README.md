@@ -6,6 +6,8 @@
   <img alt="Static Badge" src="https://img.shields.io/github/stars/IncredibleLego">
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=50&pause=1000&color=F7C03B&center=true&width=1000&height=90&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
+
 <h3 align="center">Student Developer studying at Unimi 🎓</h3>
 
 <p align="center">I'm a student at Unimi currently working in Java and Golang for my study course, plus personal projects 🖥️
