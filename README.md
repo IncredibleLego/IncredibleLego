@@ -12,7 +12,7 @@
 
 <p align="center">I'm a IT student at Unimi. Here you can find all my university work + personal projects 🖥️
 
-![GifProgrammazione](/assets/images/programming.gif)
+![GifProgrammazione](/assets/images/coding.gif)
 
 <h3 align="center">🚀 Some of my projects</h3>
 <p align="center">
