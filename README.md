@@ -10,22 +10,29 @@
 
 <h3 align="center">Student Developer studying at Unimi 🎓</h3>
 
-<p align="center">I'm a student at Unimi currently working in Java and Golang for my study course, plus personal projects 🖥️
+<p align="center">I'm a IT student at Unimi. Here you can find all my university work + personal projects 🖥️
 
 ![GifProgrammazione](/assets/images/programming.gif)
 
 <h3 align="center">🚀 Some of my projects</h3>
 <p align="center">
+  <!--
+  📌 <a href="https://github.com/IncredibleLego/GoPong">GoPong 🏓</a> - Classic Pong game implemented in Go. <br>
+  -->
+  📌 <a href="https://github.com/IncredibleLego/Shoepal">Shoepal 👟</a> - Database and web application to simulate an online shoe store. <br>
+  📌 <a href="https://github.com/IncredibleLego/Librer-IA">Librer-IA 🤖</a> - Project of an AI powered application for a library made for a competition. <br>
   📌 <a href="https://github.com/IncredibleLego/BoRSa">BoRSa 👜</a> - Small stock exchange manager made in Java. <br>
   📌 <a href="https://incrediblelego.github.io/SostenibilityHost/">Sostenibility 🍃</a> - A Webbook on environmental sustainability. <br>
   📌 <a href="https://github.com/IncredibleLego/AdventOfCode">Advent Of Code 🌐</a> - Solutions to Advent Of Code challenges in Go. <br>
 </p>
 
+<!--
 <h3 align="center">📖 Currently studying</h3>
 <p align="center">
   🔹 <img src="https://skillicons.dev/icons?i=python" alt="Python" width="20" height="20"/> Python <br>
   🔹 <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" width="20" height="20"/> SQL <br>
 </p>
+-->
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
@@ -35,8 +42,22 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
   </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" height="50"/>
+  </a>
+    <a href="https://www.markdownguide.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="50" height="50"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github" width="50" height="50"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
@@ -44,8 +65,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
   </a>
-  <a href="https://www.markdownguide.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" width="50" height="50"/>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
   </a>
 </p>
 
@@ -60,17 +81,28 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
   </a>
+  <a href="https://developer.android.com/studio?hl=it" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="JavaScript" width="50" height="50"/>
+  </a>
 </p>
 
 <h3 align="center">🖥️ OS</h3>
 <p align="center">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+  <a href="https://linuxmint.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mint" alt="Linux" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/>
   </a>
 </p>
+
+<h3 align="center">🗒️ Editor</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"/>
+  </a>
+</p>
+
 
 <h1 align="center">📬 Contact Me</h1>
 <p align="center">
