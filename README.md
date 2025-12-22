@@ -127,14 +127,16 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incrediblelego" alt="incrediblelego" /></a> </p>
+<p align="center"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=IncredibleLego" alt="incrediblelego" /></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=incrediblelego&&theme=gruvbox&border_radius=15" alt="incrediblelego" /></p>
 
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/incrediblelego/count.svg" />
 </p>
+-->
 
 <p align="center" style="font-family: Courier New, monospace"> Francesco Corrado 2025 </p>
 
