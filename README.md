@@ -1,4 +1,4 @@
-<h1 align="center">🚀 IncredibleLego 🚀</h1>
+<h1 align="center">IncredibleLego</h1>
 
 <p align="center">
   <img alt="Static Badge" src="https://komarev.com/ghpvc/?username=IncredibleLego&color=blue">
@@ -8,22 +8,22 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sigmar&size=50&pause=1000&color=F7C03B&center=true&width=1000&height=120&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
 
-<h3 align="center">Student Developer studying at Unimi 🎓</h3>
+<h3 align="center">Student Developer studying at Unimi</h3>
 
-<p align="center">I'm a IT student at Unimi. Here you can find all my university work + personal projects 🖥️
+<p align="center">I'm a IT student at Unimi. Here you can find all my university work + personal projects
 
 ![GifProgrammazione](/assets/images/coding.gif)
 
-<h3 align="center">🚀 Some of my projects</h3>
+<h3 align="center">Some of my projects</h3>
 <p align="center">
   <!--
-  📌 <a href="https://github.com/IncredibleLego/GoPong">GoPong 🏓</a> - Classic Pong game implemented in Go. <br>
+ <a href="https://github.com/IncredibleLego/GoPong">GoPong 🏓</a> - Classic Pong game implemented in Go. <br>
   -->
-  📌 <a href="https://github.com/IncredibleLego/Shoepal">Shoepal 👟</a> - Database and web application to simulate an online shoe store. <br>
-  📌 <a href="https://github.com/IncredibleLego/Librer-IA">Librer-IA 🤖</a> - Project of an AI powered application for a library made for a competition. <br>
-  📌 <a href="https://github.com/IncredibleLego/BoRSa">BoRSa 👜</a> - Small stock exchange manager made in Java. <br>
-  📌 <a href="https://incrediblelego.github.io/SostenibilityHost/">Sostenibility 🍃</a> - A Webbook on environmental sustainability. <br>
-  📌 <a href="https://github.com/IncredibleLego/AdventOfCode">Advent Of Code 🌐</a> - Solutions to Advent Of Code challenges in Go. <br>
+  <a href="https://github.com/IncredibleLego/Shoepal">Shoepal 👟</a> - Database and web application to simulate an online shoe store. <br>
+  <a href="https://github.com/IncredibleLego/Librer-IA">Librer-IA 🤖</a> - Project of an AI powered application for a library made for a competition. <br>
+  <a href="https://github.com/IncredibleLego/BoRSa">BoRSa 👜</a> - Small stock exchange manager made in Java. <br>
+  <a href="https://incrediblelego.github.io/SostenibilityHost/">Sostenibility 🍃</a> - A Webbook on environmental sustainability. <br>
+  <a href="https://github.com/IncredibleLego/AdventOfCode">Advent Of Code 🌐</a> - Solutions to Advent Of Code challenges in Go. <br>
 </p>
 
 <!--
@@ -104,7 +104,7 @@
 </p>
 
 
-<h1 align="center">📬 Contact Me</h1>
+<h1 align="center">Contact Me</h1>
 <p align="center">
   <a href="mailto:ec.francesco@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -113,19 +113,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
-
-<table align="center" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Incrediblelego&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=gruvbox&border_radius=15" alt="Anurag's GitHub stats"/>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncredibleLego&layout=pie&theme=gruvbox" alt="Top Langs"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <p align="center"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=IncredibleLego" alt="incrediblelego" /></a> </p>
 
